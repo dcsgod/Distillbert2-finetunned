@@ -15,6 +15,7 @@ metrics:
 - bertscore
 base_model:
 - distilbert/distilgpt2
+- model link: https://huggingface.co/iravikr/distilgpt2-movieqa
 ---
 
 # DistilGPT2 Movie Question Answering Model
